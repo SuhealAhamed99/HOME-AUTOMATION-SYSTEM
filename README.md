@@ -12,10 +12,11 @@
 
 *MENTOR*: NEELA SANTOSH
 
-💡 Task 2: Home Automation System 
+💡 Task 2: Home Automation System:
+
 This IoT project demonstrates how to control multiple home appliances such as lights and a fan using the Blynk IoT platform and ESP32 microcontroller. Devices can be operated remotely from a smartphone via the Blynk app or manually through physical push buttons.
 
-📲 Overview
+📲 Overview:
 
  The ESP32 controls three devices:
 
@@ -47,7 +48,7 @@ Each device is linked to Blynk virtual pins:
   
   🔸 Updates the Blynk app for real-time synchronization
 
-🧰 Components Used
+🧰 Components Used:
 
  📦 ESP32 Dev Board
 
@@ -65,7 +66,7 @@ Each device is linked to Blynk virtual pins:
 
  🧪 Wokwi Simulator (for testing without hardware)
 
-⚙️ Features
+⚙️ Features:
 
  ✅ Control multiple devices via smartphone and physical buttons
 
@@ -77,7 +78,7 @@ Each device is linked to Blynk virtual pins:
 
  ✅ Can be simulated in Wokwi for demonstration
 
-🔌 Connections
+🔌 Connections:
 
  🔧 Device	 → ⚡ ESP32 Pin
  
@@ -93,7 +94,7 @@ Each device is linked to Blynk virtual pins:
 
  🔘 Fan Button	→ GPIO12
 
-📱 Blynk Configuration
+📱 Blynk Configuration:
 
  🏷️ Template Name: Home Automation System Task 2
 
@@ -109,7 +110,7 @@ Each device is linked to Blynk virtual pins:
 
  🔘 Widget Mode: All buttons set to Switch (ON/OFF)
 
-🖼️ Output Preview
+🖼️ Output Preview:
 
  📷 Circuit diagram from Wokwi
 
