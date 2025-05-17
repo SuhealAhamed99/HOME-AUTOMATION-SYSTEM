@@ -17,21 +17,21 @@ This IoT project demonstrates how to control multiple home appliances such as li
 
 📲 Overview
 
-The ESP32 controls three devices:
+ The ESP32 controls three devices:
 
-🔴 Red LED → GPIO2
+ 🔴 Red LED → GPIO2
 
-🟢 Green LED → GPIO4
+ 🟢 Green LED → GPIO4
 
-🌬️ Fan (simulated using Servo motor) → GPIO5
+ 🌬️ Fan (simulated using Servo motor) → GPIO5
 
 Each device is linked to Blynk virtual pins:
 
-🔹 V0 → Red LED
+ 🔹 V0 → Red LED
 
-🔹 V1 → Green LED
+ 🔹 V1 → Green LED
 
-🔹 V2 → Fan (Servo Motor)
+ 🔹 V2 → Fan (Servo Motor)
 
 ✅ When a user presses a button in the Blynk app:
 
@@ -49,56 +49,57 @@ Each device is linked to Blynk virtual pins:
 
 🧰 Components Used
 
-📦 ESP32 Dev Board
+ 📦 ESP32 Dev Board
 
-💡 Red LED
+ 💡 Red LED
 
-💡 Green LED
+ 💡 Green LED
 
-⚙️ Servo Motor (for Fan control)
+ ⚙️ Servo Motor (for Fan control)
 
-🔘 3x Push Buttons
+ 🔘 3x Push Buttons
 
-🔌 Jumper Wires
+ 🔌 Jumper Wires
+ 
+ 📱 Blynk IoT App
 
-📱 Blynk IoT App
-
-🧪 Wokwi Simulator (for testing without hardware)
+ 🧪 Wokwi Simulator (for testing without hardware)
 
 ⚙️ Features
 
-✅ Control multiple devices via smartphone and physical buttons
+ ✅ Control multiple devices via smartphone and physical buttons
 
-✅ Real-time synchronization between manual and remote controls
+ ✅ Real-time synchronization between manual and remote controls
 
-✅ Serial Monitor displays current device status
+ ✅ Serial Monitor displays current device status
 
-✅ Fully functional over Wi-Fi
+ ✅ Fully functional over Wi-Fi
 
-✅ Can be simulated in Wokwi for demonstration
+ ✅ Can be simulated in Wokwi for demonstration
 
 🔌 Connections
 
-🔧 Device	 → ⚡ ESP32 Pin
-🔴 Red LED	→ GPIO2
+ 🔧 Device	 → ⚡ ESP32 Pin
+ 
+ 🔴 Red LED	→ GPIO2
 
-🟢 Green LED	→ GPIO4
+ 🟢 Green LED	→ GPIO4
 
-🌬️ Fan (Servo) → 	GPIO5
+ 🌬️ Fan (Servo) → 	GPIO5
 
-🔘 Red Button	→ GPIO14
+ 🔘 Red Button	→ GPIO14
 
-🔘 Green Button → GPIO13
+ 🔘 Green Button → GPIO13
 
-🔘 Fan Button	→ GPIO12
+ 🔘 Fan Button	→ GPIO12
 
 📱 Blynk Configuration
 
-🏷️ Template Name: Home Automation System Task 2
+ 🏷️ Template Name: Home Automation System Task 2
 
-🆔 Template ID: TMPL3h4qbt_Ap
+ 🆔 Template ID: TMPL3h4qbt_Ap
 
-🔐 Auth Token: GuEgdGUGeu7dVqBLerqPA9bgImlcq7Gb
+ 🔐 Auth Token: GuEgdGUGeu7dVqBLerqPA9bgImlcq7Gb
 
 📲 Virtual Pins:
 
@@ -106,14 +107,14 @@ Each device is linked to Blynk virtual pins:
   🔹 V1 → Green LED
   🔹 V2 → Fan (Servo Motor)
 
-🔘 Widget Mode: All buttons set to Switch (ON/OFF)
+ 🔘 Widget Mode: All buttons set to Switch (ON/OFF)
 
 🖼️ Output Preview
 
-📷 Circuit diagram from Wokwi
+ 📷 Circuit diagram from Wokwi
 
-📱 Screenshots of the Blynk app with buttons
+ 📱 Screenshots of the Blynk app with buttons
 
-💡 ON/OFF simulation images
+ 💡 ON/OFF simulation images
 
-🖥️ Serial Monitor output logs
+ 🖥️ Serial Monitor output logs
