@@ -34,15 +34,18 @@ Each device is linked to Blynk virtual pins:
 🔹 V2 → Fan (Servo Motor)
 
 ✅ When a user presses a button in the Blynk app:
+
   🔸 The ESP32 receives the command via Wi-Fi
   🔸 The corresponding device is turned ON or OFF
   🔸 The status is printed to the Serial Monitor
 
 ✅ When a physical push button is pressed:
+
   🔸 The ESP32 toggles the device
   🔸 Updates the Blynk app for real-time synchronization
 
 🧰 Components Used
+
 📦 ESP32 Dev Board
 
 💡 Red LED
@@ -55,13 +58,12 @@ Each device is linked to Blynk virtual pins:
 
 🔌 Jumper Wires
 
-🧱 Breadboard
-
 📱 Blynk IoT App
 
 🧪 Wokwi Simulator (for testing without hardware)
 
 ⚙️ Features
+
 ✅ Control multiple devices via smartphone and physical buttons
 
 ✅ Real-time synchronization between manual and remote controls
@@ -73,6 +75,7 @@ Each device is linked to Blynk virtual pins:
 ✅ Can be simulated in Wokwi for demonstration
 
 🔌 Connections
+
 🔧 Device	 → ⚡ ESP32 Pin
 🔴 Red LED	→ GPIO2
 🟢 Green LED	→ GPIO4
@@ -82,6 +85,7 @@ Each device is linked to Blynk virtual pins:
 🔘 Fan Button	→ GPIO12
 
 📱 Blynk Configuration
+
 🏷️ Template Name: Home Automation System Task 2
 
 🆔 Template ID: TMPL3h4qbt_Ap
@@ -89,6 +93,7 @@ Each device is linked to Blynk virtual pins:
 🔐 Auth Token: GuEgdGUGeu7dVqBLerqPA9bgImlcq7Gb
 
 📲 Virtual Pins:
+
   🔹 V0 → Red LED
   🔹 V1 → Green LED
   🔹 V2 → Fan (Servo Motor)
@@ -96,7 +101,6 @@ Each device is linked to Blynk virtual pins:
 🔘 Widget Mode: All buttons set to Switch (ON/OFF)
 
 🖼️ Output Preview
-
 
 📷 Circuit diagram from Wokwi
 
