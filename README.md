@@ -36,12 +36,15 @@ Each device is linked to Blynk virtual pins:
 ✅ When a user presses a button in the Blynk app:
 
   🔸 The ESP32 receives the command via Wi-Fi
+  
   🔸 The corresponding device is turned ON or OFF
+  
   🔸 The status is printed to the Serial Monitor
 
 ✅ When a physical push button is pressed:
 
   🔸 The ESP32 toggles the device
+  
   🔸 Updates the Blynk app for real-time synchronization
 
 🧰 Components Used
@@ -78,10 +81,15 @@ Each device is linked to Blynk virtual pins:
 
 🔧 Device	 → ⚡ ESP32 Pin
 🔴 Red LED	→ GPIO2
+
 🟢 Green LED	→ GPIO4
+
 🌬️ Fan (Servo) → 	GPIO5
+
 🔘 Red Button	→ GPIO14
+
 🔘 Green Button → GPIO13
+
 🔘 Fan Button	→ GPIO12
 
 📱 Blynk Configuration
