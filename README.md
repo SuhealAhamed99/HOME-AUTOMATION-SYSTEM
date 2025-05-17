@@ -118,3 +118,14 @@ Each device is linked to Blynk virtual pins:
  💡 ON/OFF simulation images
 
  🖥️ Serial Monitor output logs
+
+ ![Image](https://github.com/user-attachments/assets/465fc555-28bb-44f4-8f66-cd27ad222bc3)
+
+![Image](https://github.com/user-attachments/assets/75fa993f-c3ae-4546-a51b-47e761912e60)
+
+![Image](https://github.com/user-attachments/assets/c6b8b26e-e93c-441a-9c93-d6ac1d8c4a7c)
+![Image](https://github.com/user-attachments/assets/21120014-21da-4de4-8273-f2113a12e490)
+![Image](https://github.com/user-attachments/assets/9524791b-f998-4705-8033-daa416cdf20a)
+![Image](https://github.com/user-attachments/assets/e3cd3cf7-2e63-4f23-ada4-ef9d608f0169)
+![Image](https://github.com/user-attachments/assets/e77d3590-38c9-4d56-8215-6ce522974ec9)
+![Image](https://github.com/user-attachments/assets/4a99560a-15c1-4029-a728-fe7810def64a)
